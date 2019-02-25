@@ -14,7 +14,7 @@
 	<view name="basic, detailed, system, grid">
 	
 		<image name="logo">
-			<path>./system.svg</path>
+			<path>./system.png</path>
 		</image>
 	
 	</view>
