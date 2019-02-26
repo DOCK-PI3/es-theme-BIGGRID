@@ -11,12 +11,19 @@
 	<view name="detailed">		
 	</view>
 
-	<view name="basic, detailed, system, grid">
+	<view name="basic, detailed, system, video, grid">
 	
 		<image name="logo">
 			<path>./system.png</path>
+			<size>0.17 0.17</size>
 		</image>
-	
+			<text name="md_title">
+			<color>ffffff</color>
+			<pos>0.02 0.179</pos>
+			<fontPath>./assets/SF_Hollywood_Hills.ttf</fontPath>
+			<fontSize>0.03</fontSize>
+			<zIndex>100</zIndex>
+		</text>
 	</view>
 	
 </theme>

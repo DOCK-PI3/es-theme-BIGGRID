@@ -11,7 +11,7 @@
 	<view name="detailed">		
 	</view>
 
-	<view name="basic, detailed, system, grid">
+	<view name="basic, detailed, system, video, grid">
 	
 		<image name="logo">
 			<path>./system.svg</path>
