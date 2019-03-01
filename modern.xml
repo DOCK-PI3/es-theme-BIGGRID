@@ -303,19 +303,19 @@ Fork para MasOS creado por:		DOCK-PI3
 		</image>
 
 		<imagegrid name="gamegrid">
-			<pos>0.2 0.3</pos>
-			<size>0.605 0.5</size>
-			<margin>0.03 0.04</margin>
+			<pos>0.215 0.263</pos>
+			<size>0.58 0.5</size>
+			<margin>0.096 0.05</margin>
 		</imagegrid>
 
 		<gridtile name="default">
-			<size>0.12875 0.23</size>
+			<size>0.2351 0.32</size>
 			<backgroundImage>./assets/selector.png</backgroundImage>
 			<backgroundColor>00000000</backgroundColor>
 		</gridtile>
 
 		<gridtile name="selected">
-			<size>0.12875 0.23</size>
+			<size>0.2957 0.4</size>
 			<backgroundColor>ffffff90</backgroundColor>
 		</gridtile>
 
